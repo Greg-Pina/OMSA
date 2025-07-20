@@ -1,0 +1,97 @@
+>> Hi, I'm Joel Sokol,
+Director of the Master of Science in Analytics degree at
+Georgia Tech and a professor in
+Georgia Tech's Stewart School of ISyE.
+Up to this point in the course,
+we've seen a wide range of analytics models that
+can be used to answer lots of
+different types of questions.
+And we've also seen a bunch of
+important topics that cut across
+many analytics models like how to deal with missing data,
+how to validate and test a model, etc.
+We've now finished with that overview of
+analytics and it's time to get some practice.
+So onto the second part of the course.
+In this part of the course,
+I'm going to give you some case studies to work on.
+In each one, your job will be to think
+carefully through how you would
+approach them using analytics,
+what models might be
+good ones to answer the key questions,
+and what data you might
+need for your models to work well.
+I'm going to ask you to make extensive use of two tools,
+the discussion forums and your brain.
+For each case, you should do three things.
+First, think carefully about the answers yourself.
+Then discuss with a group of your fellow learners,
+your homework group for example,
+and maybe iterate those two steps, think, discuss,
+think discuss until you all
+feel like you have a reasonable approach.
+Then discuss again using a broader forum,
+the full class discussion board.
+I suspect you won't all agree and that's fine.
+You shouldn't all agree.
+At the end, you'll get to write up your own solutions
+and see solutions that
+your fellow learners have come up with too.
+Whenever I assign this sort of thing,
+there are two different pieces that can take a lot of
+your time: what the answers are,
+and how to present your answers.
+I really don't want you to get
+bogged down in the how question.
+I want you to spend your time thinking about
+the analytics questions not on formatting.
+So before I move on to the first case,
+I want to give you a framework
+for formatting your answers.
+The way I want you to present
+your answers is to use a simple structure that
+hopefully will also help
+guide your analytics thinking along the way.
+For each piece of your solution,
+I want you to use this language;
+given this data,
+use this model to get this result.
+For example, given a child's age, sex, current height,
+and parents heights, use
+linear regression to predict
+the child's height at adulthood.
+Here's another example.
+Given the amount of crude oil
+available each day at supply ports,
+the daily demand in each refinery,
+the availability speed and cost
+of the company's fleet of oil tankers,
+the port capacity at supply ports and refineries,
+and the range of weather effects on travel time,
+use an optimization model to determine
+the best pickup delivery and
+routing schedule for all of the tankers.
+And here's one more example to show
+how you can integrate models with each other.
+Given minute by minute traffic data
+on 12 popular websites,
+use ARIMA and GARCH models to predict
+the mean and variance of the traffic on
+each site five-minutes into the future.
+And then, given
+those predictions from the ARIMA and GARCH models,
+pass data on the fraction of visitors to
+each website who click on
+your company's banner added each time of day,
+and the fraction of banner ad clickers
+who purchased your product,
+use a simulation model to suggest the break-even price
+for advertising on each of
+the websites for over the next five minutes.
+Using this given, use,
+and to format will help guide your thinking and it will
+also help make it easier for you
+to describe your ideas to each other.
+So now that we have a standard format for this thing,
+Let's go ahead and start looking at cases.

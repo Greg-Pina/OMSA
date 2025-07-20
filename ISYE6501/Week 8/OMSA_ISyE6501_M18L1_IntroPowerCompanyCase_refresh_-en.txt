@@ -1,0 +1,114 @@
+>> Hi, I'm Joel Sokol,
+Director of the Master of Science in
+Analytics degree at Georgia Tech
+and a professor in Georgia Tech's Stewart School of ISyE.
+In this lesson, I'm going to introduce
+the first case that you'll be
+thinking about in this part of the course.
+The case actually comes from
+a student project that I supervised a while back.
+We are working with the city's power company.
+I can't say which city or which power company,
+but it was a pretty good-sized
+city and they had a problem.
+The power companies problem was that some of
+their customers don't pay their bills.
+And I'm not talking about
+well-meaning people who just aren't able to pay,
+for those customers the power company
+has a fund that people can
+donate to pay power bills
+for the people who can't afford to pay.
+We have something like that in Atlanta.
+My family and I pay a little extra on
+our power bill every month
+and so do a lot of other people,
+and that extra money goes to pay
+the power bills for people who aren't able to pay.
+So that's not what the power company was concerned with,
+they were concerned with
+other people who could pay, but don't.
+The power company wanted to
+turn those people's power off,
+but there were two problems.
+First, they only wanted to turn off the power
+from people who are not ever going to pay.
+But some of the people who didn't
+pay might have just forgotten,
+or some customers get behind on
+payments but are able to pay it all back after a while.
+For those customers,
+the power company wanted to keep their power on,
+they'll pay for it eventually.
+They only wanted to cut off
+the power from people who would never pay for it.
+And second, the company needed
+to prioritize and be efficient.
+There were more people each month whose power should be
+shut off than the company had capacity to handle.
+The shut-off had to be done manually
+by workers who had to go to each location
+and the time required to travel
+all around the city and turn off the power
+at all those locations was more work
+than the company had the capacity to do.
+So that's the issue to think about.
+How can you use analytics models to
+make good recommendations for the power company?
+Since this is your first case,
+let me give you a little bit of structure.
+Here's some questions to consider.
+The bottom line question is which shutoffs should be
+done each month given the capacity constraints?
+One consideration is that some of the capacity,
+the worker's time is taken up by travel,
+so maybe the shut-offs could be scheduled in a way
+that increases the number of them that can be done.
+But not every shut-off is equal.
+Some shutoffs shouldn't be done at all,
+because if the power is left on,
+those people are likely to pay the bill eventually.
+How can you identify
+which shutoffs should or shouldn't be done?
+And among the ones to shut off,
+how should they be prioritized?
+As you're going through these questions,
+don't forget to think about what data you would
+want or need to base your answers on,
+and what analytics models or methods you'd need to use.
+And keep in mind that it's often
+useful to have the output of one model,
+the input to another.
+Of course, this isn't the question
+that has a single right answer,
+there are potentially lots of
+different approaches and there's no way to know
+whether an approach works well
+unless you've tested it with real data,
+and that's not what I want you to spend your time on.
+Rather than most of your time being used up on
+basic preparatory data formatting and analysis,
+I want you to spend your time thinking about
+the analytics modeling component of a solution.
+So go ahead and try it.
+Think about the problem and
+your approach then talk about it with other learners
+and share and combine
+your ideas and then put your approach is up
+on the discussion forum and give
+feedback and suggestions to each other.
+You can use the given,
+use, to format,
+to guide the discussions and have fun.
+This is my favorite part of analytics,
+taking a real problem and thinking through
+the modeling and data process to
+build a good solution framework.
+It's something I really like to do.
+That's why I'm in this field and that's
+why I spent so much of my research and
+consulting time working with
+all companies and organizations
+to help them with their analytics.
+So I'm really going to enjoy this part of the course,
+and I hope you do too.
