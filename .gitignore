@@ -1,0 +1,25 @@
+# Keep small text files, use LFS for large binary files
+# Remove the file types you want to track with LFS
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# R files
+*.RData
+*.Rhistory
