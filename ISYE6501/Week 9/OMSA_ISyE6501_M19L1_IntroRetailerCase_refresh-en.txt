@@ -1,0 +1,72 @@
+>> Hi. I'm Joel Sokol
+director of the Master of Science in
+Analytics degree at Georgia Tech and a professor
+in Georgia Tech's Stewart School of ISyE.
+In this lesson, I'm going to describe
+the next case for you to think
+about from a modeling perspective.
+Like the other cases,
+it comes from applied analytics work that I've
+either done myself or supervised others doing.
+This case deals with a large,
+big box retailer that wants
+to optimize its shelf spacing.
+The underlying idea they came to us with had three parts.
+First, that the more shelf space
+they give to a type of product,
+the more of it they'll sell.
+Second, the more of a product type they sell,
+the more they'll sell complimentary products.
+And third, if
+two complimentary product types
+are next to each other on the shelves,
+then the complimentary effects will be even greater.
+You can think about this idea in
+the context of a grocery store.
+If there's more shelf space for cereal,
+the store might sell more cereal and sell more milk.
+And if the cereal and milk are
+next to each other then the increase
+in milk sales will be even larger,
+or at least that's the company's hypothesis.
+So the company asked us to optimize their shelf space.
+How much shelf space should the company
+have to maximize their sales or profit?
+Of course, there are some restrictions.
+For each product type
+the retailer imposed a minimum amount of
+shelf space required and a
+maximum amount that can be devoted.
+And of course, the physical size of each store means
+there's a total amount of
+shelf space that has to be used.
+But the key is the division of
+that shelf space among the product types.
+For the purposes of this case,
+I want you to ignore other factors.
+For example don't worry about
+promotions for certain products and
+don't consider the fact that some companies
+pay the stores to get more shelf space.
+Just think about the basic question asked by
+the retailer and how you could
+use analytics to address it.
+As part of your answer,
+I'd like you to think about how to measure the effects.
+Before you can answer the company's question,
+you probably need to know how much extra sales
+the company might get with
+different amounts of shelf space.
+How will you estimate that?
+And for that matter, how will you determine
+whether the effect really exists at all?
+Maybe the retailers hypotheses are not all true.
+Can you use analytics to check?
+One of the key issues in this case will be data.
+In the Power Company case,
+the data needs were more basic.
+In this case, thinking about the data
+might be harder than thinking about the models.
+So go give it a try,
+see what you can come up with that
+might be helpful for this retailer.
